@@ -23,19 +23,6 @@
   <a href="https://wa.me/923415878569"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="27" /></a>
 </p>
 
-<table width="100%">
-<tr>
-<td width="30%" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90" alt="Mario running" />
-</td>
-<td width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="6" alt="divider" />
-</td>
-<td width="30%" align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="90" alt="Dinosaur game" />
-</td>
-</tr>
-</table>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--  ABOUT ME                                                       -->
@@ -142,10 +129,11 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
 <b>Tools & Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=vscode,figma,linux,cpp,java,bash" height="40" />
 </td>
+
 </tr>
 </table>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="10%" align="right" valign="middle">
   <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="60" alt="I'm coding" />
@@ -157,8 +145,8 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
   <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="60" alt="Hard life" />
 </td>
 </tr>
-</table>
-
+</table> -->
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="160" alt="ultra confident coder" />
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--  GITHUB ANALYTICS                                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -184,20 +172,28 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
   <img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-25&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" alt="trophies" />
 </p>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="10%" align="right" valign="middle">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="70" alt="Dinosaur game" />
 </td>
 <td width="80%">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="6" alt="divider" />
+   <img
+        src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
+        width="220"
+        alt="Dinosaur game"
+      />
 </td>
 <td width="10%" align="left" valign="middle">
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="70" alt="Eat sleep code repeat" />
 </td>
 </tr>
-</table>
-
+</table> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="160" alt="pro coder" />
+  
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="160" alt="binary code" /> -->
+</p>
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--  CERTIFICATIONS                                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -213,6 +209,17 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
   <img src="https://img.shields.io/badge/Deep_Learning_Spec-0A66C2?style=for-the-badge&logo=deeplearningdotai&logoColor=white" height="30" />
 </p>
 
+<!-- <table width="100%">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
+        width="220"
+        alt="Dinosaur game"
+      />
+    </td>
+  </tr>
+</table> -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="6" alt="divider" />
 </p>
@@ -221,6 +228,7 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
 <!--  OFF DUTY                                                       -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
+
   <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="30" />
   Off Duty
 </h2>
