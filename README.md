@@ -255,16 +255,16 @@ Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Curre
 </td>
 <td valign="top" width="55%">
 
-**Top Anime — Ranked**
+**FAV Anime —**
 
 | # | Title |
 |:---:|---|
 | 1 | Naruto Shippuden |
-| 2 | Attack on Titan |
-| 3 | Death Note |
+| 2 | Bleach |
+| 3 | Solo Leveling |
 | 4 | Jujutsu Kaisen |
-| 5 | One Piece |
-| 6 | Steins;Gate |
+| 5 | Black Clover |
+<!-- | 6 | Steins;Gate | -->
 
 </td>
 </tr>
