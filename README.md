@@ -36,7 +36,7 @@
 <tr>
 <td valign="top" width="50%">
 
-Full-stack developer obsessed with **AI**, **Generative AI**, and **IoT**. Currently pursuing a BS in Artificial Intelligence at SZABIST Islamabad. I build scalable React apps, deploy cloud-native solutions, and ship AI-powered, SEO-optimized products for clients worldwide.
+Full-stack developer obsessed with **AI**, **Generative AI**, and **Internet Of Things (IOT)**. Currently pursuing a BS in Artificial Intelligence at SZABIST Islamabad. I build scalable React apps, deploy cloud-native solutions, and ship AI-powered, SEO-optimized products for clients worldwide.
 
 **What I actually do:**
 - Production-grade full-stack apps (React + Node + Cloud)
