@@ -24,6 +24,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="4" alt="divider" />
 </p>
 
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://facebook.com/AbdulBasit.2577"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/__abdul.basitt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-basit-741977295/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulbasit.alpha25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/923415878569"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="4" alt="divider" />
+</p>
+
 ## 👋 About Me
 
 I build software that solves problems — not just projects that look good in a portfolio.
@@ -72,7 +86,7 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="4" alt="divider" />
 </p>
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,py,fastapi,flask,mongodb,mysql,postgres,aws,gcp,vercel,docker,git,github,figma,linux,cpp,arduino,raspberrypi" />
@@ -90,7 +104,7 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="4" alt="divider" />
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulbasit-25&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" alt="stats" />
@@ -99,10 +113,6 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=abdulbasit-25&theme=dracula&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit-25&theme=dracula&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ff6b35&area=true" width="90%" alt="activity graph" />
 </p>
 
 <p align="center">
