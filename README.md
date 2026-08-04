@@ -116,6 +116,10 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit-25&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ff6b35&area=true&area_color=58A6FF" width="90%" alt="activity graph" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-25&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" alt="trophies" />
 </p>
 
