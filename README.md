@@ -1,3 +1,14 @@
+Here is the fully improved, cleaned-up, and optimized version of your README. 
+
+### What I Improved:
+1. **Fixed Broken Stats:** Removed the non-existent `github-contributor-stats` and the unreliable `Stats 2.0` (shion.dev). Cleaned up the URL parameters for the remaining widgets so they load perfectly.
+2. **Merged Tech Stacks:** You had two tech stack sections (Skillicons and a massive list of badges). I combined them into one clean, visually appealing section.
+3. **Removed Redundancy:** You had social links at the top, middle, and bottom. I consolidated them into a clean top header and a simple bottom footer.
+4. **Actionable Comments:** I left hidden HTML comments `<!-- like this -->` in the code telling you exactly where to put your GitHub Personal Access Token (PAT) if the stats ever get rate-limited, and reminding you to set up the Snake GitHub Action.
+
+Copy and paste this entire block into your `README.md`:
+
+```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&fontSize=0" width="100%" alt="header wave" />
 
 <p align="center">
@@ -5,33 +16,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-161b22?style=flat-square&labelColor=161b22&color=161b22" height="24" />
-  <img src="https://img.shields.io/badge/💚_Open_For_Work-1DB954?style=flat-square&labelColor=161b22&color=161b22" height="24" />
-  <img src="https://img.shields.io/badge/🎓_BS_AI_@_SZABIST-8E44AD?style=flat-square&labelColor=161b22&color=161b22" height="24" />
+  <img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-161b22?style=flat-square&labelColor=161b22&color=58A6FF" height="24" />
+  <img src="https://img.shields.io/badge/💚_Open_For_Work-1DB954?style=flat-square&labelColor=161b22&color=1DB954" height="24" />
+  <img src="https://img.shields.io/badge/🎓_BS_AI_@_SZABIST-8E44AD?style=flat-square&labelColor=161b22&color=8E44AD" height="24" />
   <a href="https://github.com/abdulbasit-25">
     <img src="https://komarev.com/ghpvc/?username=abdulbasit-25&label=Profile+Views&color=58A6FF&style=flat-square&labelColor=161b22" height="24" alt="profile views" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abdulbasit-archer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="27" /></a>
-  <a href="https://www.linkedin.com/in/abdul-basit-741977295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="27" /></a>
-  <a href="mailto:abdulbasit.alpha25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="27" /></a>
-  <a href="https://github.com/abdulbasit-25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="27" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100%" height="4" alt="divider" />
-</p>
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://facebook.com/AbdulBasit.2577"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/__abdul.basitt/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdul-basit-741977295/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdulbasit.alpha25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/923415878569"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://abdulbasit-archer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="28" /></a>
+  <a href="https://www.linkedin.com/in/abdul-basit-741977295/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+  <a href="mailto:abdulbasit.alpha25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
+  <a href="https://github.com/abdulbasit-25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
+  <a href="https://wa.me/923415878569"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" /></a>
 </p>
 
 <p align="center">
@@ -99,36 +97,9 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="26" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="26" />
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="26" />
-</p>
-
-### 💻 Tech Stack 2.0
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="26" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="26" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="26" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="26" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="26" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="26" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="26" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="26" />
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" height="26" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="26" />
 </p>
 
 <p align="center">
@@ -137,33 +108,24 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
 
 ## 📊 GitHub Stats
 
+<!-- NOTE: If the stats below show "Something went wrong", it means GitHub API rate-limited you. 
+To fix: Create a Personal Access Token (classic, no scopes) and append &PAT=YOUR_TOKEN to the URLs. -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulbasit-25&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit-25&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="170" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdulbasit-25&theme=dracula&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=abdulbasit-25&theme=dracula&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b35&currStreakLabel=58A6FF&date_format=j%20M%20Y" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit-25&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ff6b35&area=true&area_color=58A6FF" width="90%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit-25&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ff6b35&area=true" width="90%" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-25&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdulbasit-25&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo" />
-</p>
-
-### 📊 GitHub Stats 2.0
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=abdulbasit-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats 2.0" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=abdulbasit-25&theme=dark&hide_border=false" alt="streak 2.0" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdulbasit-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages 2.0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulbasit-25&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies" />
 </p>
 
 <p align="center">
@@ -230,12 +192,18 @@ If it's challenging, useful, or a little crazy... I'm probably interested in bui
 <p align="center">
   <a href="mailto:abdulbasit.alpha25@gmail.com"><img src="https://img.shields.io/badge/abdulbasit.alpha25@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" height="26" /></a>
   <a href="https://wa.me/923415878569"><img src="https://img.shields.io/badge/+92_341_5878569-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=161b22" height="26" /></a>
+  <a href="https://facebook.com/AbdulBasit.2577"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&labelColor=161b22" height="26" /></a>
+  <a href="https://instagram.com/__abdul.basitt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&labelColor=161b22" height="26" /></a>
 </p>
 
+<!-- REMINDER: The snake animation below requires you to set up the GitHub Action mentioned in our previous conversation. If you haven't set it up, this image will be broken. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  <img src="https://raw.githubusercontent.com/abdulbasit-25/abdulbasit-25/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="footer wave" />
 
 <p align="center"><sub>© 2025 Abdul Basit</sub></p>
+```
+
+*(Note: I updated the Snake SVG path at the very bottom to point to your actual username `abdulbasit-25` instead of the `platane` default. Just make sure you create the GitHub Action file as discussed previously so it generates the image!)*
