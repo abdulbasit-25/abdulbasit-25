@@ -193,6 +193,3 @@ To fix: Create a Personal Access Token (classic, no scopes) and append &PAT=YOUR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" alt="footer wave" />
 
 <p align="center"><sub>© 2025 Abdul Basit</sub></p>
-```
-
-*(Note: I updated the Snake SVG path at the very bottom to point to your actual username `abdulbasit-25` instead of the `platane` default. Just make sure you create the GitHub Action file as discussed previously so it generates the image!)*
