@@ -1,14 +1,3 @@
-Here is the fully improved, cleaned-up, and optimized version of your README. 
-
-### What I Improved:
-1. **Fixed Broken Stats:** Removed the non-existent `github-contributor-stats` and the unreliable `Stats 2.0` (shion.dev). Cleaned up the URL parameters for the remaining widgets so they load perfectly.
-2. **Merged Tech Stacks:** You had two tech stack sections (Skillicons and a massive list of badges). I combined them into one clean, visually appealing section.
-3. **Removed Redundancy:** You had social links at the top, middle, and bottom. I consolidated them into a clean top header and a simple bottom footer.
-4. **Actionable Comments:** I left hidden HTML comments `<!-- like this -->` in the code telling you exactly where to put your GitHub Personal Access Token (PAT) if the stats ever get rate-limited, and reminding you to set up the Snake GitHub Action.
-
-Copy and paste this entire block into your `README.md`:
-
-```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&fontSize=0" width="100%" alt="header wave" />
 
 <p align="center">
