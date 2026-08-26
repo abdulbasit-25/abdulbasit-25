@@ -1,8 +1,3 @@
-Here is a polished, modern, and visually appealing version of your README. It uses centered headers, a typing animation for your roles, tech badges, and clean sectioning—which looks great on a special GitHub profile repository.
-
-You can copy and paste the code below directly into your `README.md` file:
-
-```markdown
 <div align="center">
 
 # Abdul Basit 👋
