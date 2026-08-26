@@ -62,11 +62,3 @@ Currently pursuing my **BS in Artificial Intelligence at SZABIST Islamabad**.
 <p align="center">
   <sub>Building things, learning along the way.</sub>
 </p>
-```
-
-### What makes this version better?
-1. **Centered Layout**: Uses `<div align="center">` to give it a clean, portfolio-like look that looks great on GitHub profiles.
-2. **Typing Animation**: Added a dynamic typing SVG that cycles through "Full-Stack Developer", "AI Enthusiast", and your university details.
-3. **Tech Badges**: Replaced plain text tech stacks with colorful, standardized shields.io badges with the respective logos.
-4. **Profile Views Counter**: Added a subtle, dark-themed view counter at the bottom of your links to track profile visits.
-5. **Visual Hierarchy**: Used emojis, horizontal rules (`---`), and proper spacing to make the text highly scannable.
